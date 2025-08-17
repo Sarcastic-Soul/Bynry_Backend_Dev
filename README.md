@@ -1,5 +1,10 @@
 # StockFlow Inventory Management Case Study - Complete Solution
 
+## Contents
+1. [Code Review & Debugging](#part-1-code-review--debugging)
+2. [Database Design](#part-2-database-design)
+3. [API Implementation (MERN Stack)](#part-3-api-implementation-mern-stack)
+
 ## Part 1: Code Review & Debugging
 
 ### Issues Identified
